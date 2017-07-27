@@ -6,6 +6,6 @@
 # The last two fields represent the percentage (in the range [0, 100]) of the
 # accelerator pedal and the brake pedal, respectively.
 
-char gear
+string gear
 float64 accel
 float64 brake
