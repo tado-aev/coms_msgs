@@ -7,6 +7,7 @@ add_message_files(
   FILES
   ComsGAB.msg
   ComsStatus.msg
+  ComsEncoder.msg
 )
 
 generate_messages(
